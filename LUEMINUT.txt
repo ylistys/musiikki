@@ -1,0 +1,17 @@
+LUEMINUT.txt
+
+Tämän GitHub-repon tarkoituksena on toimia yhteisenä open-source nuottikokoelmana 
+ylistysbändejä varten.
+
+Kokoelmaa ylläpitää Zuige (antti@zuigeproductions.fi)
+
+Toivomuksena olisi, että kaikki tiedostot lisätään tänne .txt -muodossa, jotta kaikkien 
+on mahdollisimman helppo päästä käsiksi niihin suoraan GitHub-verkkosivuilta. Muuta 
+huomattavaa on mm. että soinnut kannattaa erotella toisistaan välilyönneillä, jotta ne 
+näkyvät samalla tavalla kaikille. 
+
+Soinnut erotellaan näin aluksi ainakin kielen perusteella. Suomenkieliset nuotit löytyvät 
+tällä hetkellä hakemistosta /fi_FI, ja englanninkieliset lisätään hakemistoon en_GB/.
+
+Tervetuloa lisäämään ja muokkaamaan ylistyspiisejä. Siunausta!
+- Zuige
