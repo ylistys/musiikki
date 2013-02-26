@@ -13,5 +13,9 @@ näkyvät samalla tavalla kaikille.
 Soinnut erotellaan näin aluksi ainakin kielen perusteella. Suomenkieliset nuotit löytyvät 
 tällä hetkellä hakemistosta /fi_FI, ja englanninkieliset lisätään hakemistoon en_GB/.
 
+Tekijänoikeuksista sen verran, että suositeltavaa on ainakin kysyä kappaleen omistajalta, 
+voiko sen lisätä tänne. Jos kappaleen omistaja haluaa piisin poistettavan tietokannasta, 
+niin viestiä ylläpitäjälle vaan, niin kappale poistetaan master-branchista näkyviltä.
+
 Tervetuloa lisäämään ja muokkaamaan ylistyspiisejä. Siunausta!
 - Zuige
